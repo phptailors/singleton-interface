@@ -1,0 +1,9 @@
+{
+  "symbol-whitelist" : [
+  ],
+  "php-core-extensions" : [
+      "SPL"
+  ],
+  "scan-files" : [
+  ]
+}
