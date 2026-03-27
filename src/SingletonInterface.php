@@ -6,6 +6,8 @@ namespace Tailors\Lib\Singleton;
  * A singleton interface.
  *
  * @author Paweł Tomulik <pawel@tomulik.pl>
+ *
+ * @api
  */
 interface SingletonInterface
 {
