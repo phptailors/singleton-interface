@@ -9,8 +9,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/phptailors/libraries/issues",
-        "source": "https://github.com/phptailors/libraries"
+        "issues": "https://github.com/phptailors/singleton-interface/issues",
+        "source": "https://github.com/phptailors/singleton-interface"
     },
     "require": {
         "php": ">=8.0"
